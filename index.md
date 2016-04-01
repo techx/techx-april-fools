@@ -68,4 +68,6 @@ Twitter: [@mittechx] <br />
 [@MITTechX]: {{ site.author.twitter }}
 [{{ site.author.email }}]: mailto:{{ site.author.email }}
 
+<p style="font-size: 0.1em; color: #555;">April fools ;)</p>
+
 <p class="hidden">Thanks to <a href="http://genius.com/Microsoft-memo-to-employees-on-restructuring-annotated">Steve Ballmer</a> for the rough template</p>
