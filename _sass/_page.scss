@@ -1,0 +1,70 @@
+.page {
+    margin: 0 auto;
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    min-width: -webkit-calc(#{$content-min-width} - (#{$spacing-unit} * 2));
+    min-width:         calc(#{$content-min-width} - (#{$spacing-unit} * 2));
+    @include media-query($desktop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        min-width: -webkit-calc(#{$content-min-width} - (#{$spacing-unit} * 2));
+        min-width:         calc(#{$content-min-width} - (#{$spacing-unit} * 2));
+    }
+}
+
+// Clearfix
+%clearfix {
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+small {
+    display: block;
+    margin-bottom: 1em;
+    font-size: 0.5em;
+    font-weight: 100;
+    color: $grey-dark;
+}
+
+.post {
+    margin-bottom: $spacing-unit;
+    @extend %clearfix;
+}
+
+.hidden, .hidden a {
+    color: $grey-vdark !important;
+    font-size: 0.2em;
+}
+
+.post p {
+    font-weight: lighter;
+    margin-top:    0;
+    margin-bottom: $spacing-unit * 0.8;
+}
+
+.post h1, h2, h3, h4, h5, h6 {
+    color: $header-color;
+    margin-top:    $spacing-unit * 0.9;
+    margin-bottom: $spacing-unit * 0.2;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $text-light-color;
+}
+
+.post-link {
+    display: block;
+}

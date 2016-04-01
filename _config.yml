@@ -1,0 +1,33 @@
+title: TechX
+description: "Copyright TechX, LLC. 2016"
+
+permalink: :year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
+url: "http://techx.company"     # the base hostname & protocol for your site
+baseurl: ""                   # the subpath of your site, e.g. /blog
+
+author:
+    email: "contact@techx.company"
+    facebook: "https://www.facebook.com/MITTechX/"
+    twitter: "https://twitter.com/mittechx"
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics:
+    provider: false
+    google:
+        tracking_id: ''
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments:
+    provider: false
