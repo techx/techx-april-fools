@@ -5,6 +5,8 @@ author: TechX Exec
 permalink: /
 ---
 
+<p style="color: rgb(98,98,98);">April fools! Hope you enjoyed it :)</p>
+
 Today, we are announcing a far-reaching realignment of TechX that will enable us to innovate with greater speed, efficiency and capability in a fast changing world.
 
 TechX has always had a big vision - to empower students through technology. In the earliest days, we innovated on the career fair through TechFair, shifting the focus to a technology driven expo. Since then, we've come farther than we could have imagined. In the past 5 years alone, we've tripled the events we run and quadrupled our contribution back to campus.
