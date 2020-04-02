@@ -45,7 +45,7 @@ Each is crucial to the developement of TechX, but real development starts from o
 
 As part of today's announcement, we're proud to reveal our new office. Seated in the heart of Seoul, South Korea, one of the largest city centers in the world - SK TechX will foster a greater sense of community than 5-23x could ever provide. A beautiful 20 story tower, the office will feature microkitchens on every floor, 4 cafeterias and 2 game rooms. Seoul is a vibrant city, booming with technological innovation. Among other things, we're looking forward to meeting our new Korean neighbors.
 
-<a target="_blank" href="http://imgur.com/a/PZEcl">You can see photos of the opening here.</a>
+<a target="_blank" href="https://imgur.com/a/PZEcl">You can see photos of the opening here.</a>
 
 ## Going Forward
 
@@ -72,4 +72,4 @@ Twitter: [@mittechx] <br />
 
 <p style="font-size: 0.1em; color: #555;">April fools ;)</p>
 
-<p class="hidden">Thanks to <a href="http://genius.com/Microsoft-memo-to-employees-on-restructuring-annotated">Steve Ballmer</a> for the rough template</p>
+<p class="hidden">Thanks to <a href="https://genius.com/Microsoft-memo-to-employees-on-restructuring-annotated">Steve Ballmer</a> for the rough template</p>
