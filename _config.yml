@@ -4,11 +4,11 @@ description: "Copyright TechX, LLC. 2016"
 permalink: :year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://techx.company"     # the base hostname & protocol for your site
-baseurl: ""                   # the subpath of your site, e.g. /blog
+url: "https://techx.io/"     # the base hostname & protocol for your site
+baseurl: "/techx-april-fools"                   # the subpath of your site, e.g. /blog
 
 author:
-    email: "contact@techx.company"
+    email: "techx-exec@mit.edu"
     facebook: "https://www.facebook.com/MITTechX/"
     twitter: "https://twitter.com/mittechx"
 
